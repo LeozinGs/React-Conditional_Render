@@ -5,7 +5,7 @@ const UserDetails = () => {
     // Array de usuarios
     const [userDetails] = useState ([
         {id: 1, name: "Leonardo", age: 24, job: "Programmer"},
-        {id: 2, name: "Mizu", age: 29, job: "Programmer"},
+        {id: 2, name: "Mizu", age: 28, job: "Programmer"},
         {id: 3, name: "Breno", age: 14, job: "Don't have a job"},
         {id: 4, name: "Mikael", age: 24, job: "Telemarketing Attendant"},
         {id: 5, name: "Samuca", age: 14, job: "Don't have a job"},
